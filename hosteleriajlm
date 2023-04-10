@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>HosteleriaJLM - Reparación de Maquinaria de Hostelería</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+
+<body>
+    <header>
+        <h1>HosteleriaJLM - Reparación de Maquinaria de Hostelería</h1>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#servicios">Servicios</a></li>
+                <li><a href="#nosotros">Nosotros</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="inicio">
+            <h2>Bienvenido a nuestra página de reparación de maquinaria de hostelería</h2>
+            <p>Somos una empresa especializada en la reparación de maquinaria de hostelería, incluyendo
+                equipos de cocina, refrigeración, lavado y más. Nuestro equipo de técnicos altamente capacitados
+                está listo para solucionar cualquier problema que pueda tener con su maquinaria.</p>
+        </section>
+        <section id="servicios">
+            <h2>Servicios</h2>
+            <ul>
+                <li>Reparación de equipos de cocina industrial</li>
+                <li>Mantenimiento preventivo y correctivo</li>
+                <li>Reparación de equipos de refrigeración</li>
+                <li>Reparación de equipos de lavado</li>
+                <li>Reemplazo de piezas y repuestos originales</li>
+                <li>Asesoramiento técnico</li>
+            </ul>
+        </section>
+        <section id="nosotros">
+            <h2>Nosotros</h2>
+            <p>Somos una empresa con más de 10 años de experiencia en la reparación de maquinaria de hostelería.
+                Nuestro compromiso es ofrecer un servicio de calidad y confiable para nuestros clientes en la
+                industria de la hostelería y la restauración. Nuestros técnicos están certificados y cuentan con
+                amplios conocimientos en la reparación de diferentes marcas y modelos de maquinaria.</p>
+        </section>
+        <section id="contacto">
+            <h2>Contacto</h2>
+            <p>Si necesita nuestros servicios de reparación de maquinaria de hostelería, por favor póngase en
+                contacto con nosotros a través de los siguientes medios:</p>
+            <ul>
+                <li>Teléfono: 123-456-7890</li>
+                <li>Correo electrónico: info@hosteleriajlm.com</li>
+                <li>Dirección: Calle de la Reparación, 1234, Ciudad</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>Derechos de autor © 2023 HosteleriaJLM. Todos los derechos reservados.</p>
+    </footer>
+</body>
+
+</html>
